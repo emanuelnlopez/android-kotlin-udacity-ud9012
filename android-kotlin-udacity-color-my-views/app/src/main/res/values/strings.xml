@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Udacity Color My Views</string>
+    <string name="box_one">Box One</string>
 </resources>
