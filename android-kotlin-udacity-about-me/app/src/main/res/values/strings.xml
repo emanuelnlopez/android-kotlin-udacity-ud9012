@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Udacity About Me</string>
+    <string name="name">Emanuel López</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola! Mi nombre es Emanuel
+        \n\nActualmente trabajo como desarrollador Flutter en Globant.
+        \n\nVivo en Bahía Blanca, Argentina.
+        \n\nMe gusta jugar al fútbol, basquet y handball.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
