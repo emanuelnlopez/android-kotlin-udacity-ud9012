@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">Dessert Pusher</string>
+    <string name="app_name">Udacity Dessert Pusher</string>
     <string name="dollar_sign">$</string>
     <string name="zero">0</string>
     <string name="dessert_sold">Desserts Sold</string>
