@@ -193,11 +193,11 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         Timber.i("onRestart called")
     }
 
-    override fun onSaveInstanceState(outState: Bundle?) {
+    override fun onSaveInstanceState(outState: Bundle) {
         Timber.i("onSaveInstanceState called")
-        outState?.putInt(KEY_DESSERT_TIMER, dessertTimer.secondsCount)
-        outState?.putInt(KEY_DESSERTS_SOLD, dessertsSold)
-        outState?.putInt(KEY_REVENUE, revenue)
+        outState.putInt(KEY_DESSERT_TIMER, dessertTimer.secondsCount)
+        outState.putInt(KEY_DESSERTS_SOLD, dessertsSold)
+        outState.putInt(KEY_REVENUE, revenue)
         super.onSaveInstanceState(outState)
     }
 }
