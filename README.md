@@ -9,6 +9,6 @@ Color my views | Trivia app
 --- | ---
 <img src="android-kotlin-udacity-color-my-views.png" width="300" alt="Color my views app screenshot"/> | <img src="android-kotlin-udacity-trivia-app.png" width="300" alt="Trivia app app screenshot"/>
 
-Dessert pusher | .
+Dessert pusher | Guess it
 --- | ---
-<img src="android-kotlin-udacity-dessert-pusher.png" width="300" alt="Dessert pusher app screenshot"/> | .
+<img src="android-kotlin-udacity-dessert-pusher.png" width="300" alt="Dessert pusher app screenshot"/> | <img src="android-kotlin-udacity-guess-it.png" width="300" alt="Guess it app screenshot"/>
