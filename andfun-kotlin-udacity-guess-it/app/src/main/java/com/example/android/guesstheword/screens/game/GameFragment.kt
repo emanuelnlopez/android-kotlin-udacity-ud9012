@@ -54,14 +54,7 @@ class GameFragment : Fragment() {
         viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)
 
         binding.gameViewModel = viewModel
-
-        viewModel.score.observe(this, Observer{ newScore ->
-            binding.scoreText.text = newScore.toString()
-        })
-
-        viewModel.word.observe(this, Observer{ newWord ->
-            binding.wordText.text = newWord
-        })
+        binding.setLifecycleOwner(this)
 
         viewModel.currentTime.observe(this, Observer{ newTime ->
             binding.timerText.text = DateUtils.formatElapsedTime(newTime)
