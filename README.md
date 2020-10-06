@@ -15,4 +15,4 @@ Dessert pusher | Guess it
 
 Sleep Tracker | Sleep Tracker with RecyclerView
 --- | ---
-<img src="android-kotlin-udacity-sleep-tracker.png" width="300" alt="Sleep Tracker app screenshot"/> | <img src="android-kotlin-udacity-sleep-tracker-recyclerview.png width="300" alt="Sleep Tracker with RecyclerView app screenshot">
+<img src="android-kotlin-udacity-sleep-tracker.png" width="300" alt="Sleep Tracker app screenshot"/> | <img src="android-kotlin-udacity-sleep-tracker-recyclerview.png" width="300" alt="Sleep Tracker with RecyclerView app screenshot">
